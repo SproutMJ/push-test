@@ -93,7 +93,7 @@
       </a>
     </td>
      <td align="center">
-      <a href="https://github.com/wzrabbit" target="_blank">
+      <a href="https://github.com/the9kim/push-test/blob/Roy/Roy.md" target="_blank">
        로이
       </a>
     </td> 
