@@ -1,5 +1,9 @@
 # Team By Team (팀바팀)
 
+## 코치 소개
+**브리, 제임스**
+
+
 ## 팀소개
 <img src="https://github.com/woowacourse-teams/2023-team-by-team/assets/79538610/86692466-b065-45b7-84d8-f6c679acc4fe" alt="팀바팀 로고" width="100" height="130"/>
 <br/>
