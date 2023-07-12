@@ -45,8 +45,8 @@
   </tr>
 <tr>
     <td align="center">
-      <a href="https://docs.google.com/presentation/d/1dsGhcut3RqHDbpD-c1rZqUhNQuFd6a7RZrJ0IywOfeE/edit?usp=sharing" target="_blank">
-        루루 사용설명서
+      <a href="./루루.md" target="_blank">
+        자기소개서
       </a>
     </td>
      <td align="center">
@@ -76,7 +76,7 @@
       </a>
     </td>
     <td align="center" width="180px">
-      <a href="https://github.com/sh111-coder" target="_blank">
+      <a href="https://github.com/sh111-coder/push-test/blob/feat/be/%EC%84%B1%ED%95%98-%EC%9E%91%EC%84%B1/seongha.md" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/95729738?v=4" alt="성하 프로필" />
       </a>
     </td>
@@ -93,7 +93,7 @@
       </a>
     </td>
      <td align="center">
-      <a href="https://github.com/wzrabbit" target="_blank">
+      <a href="https://github.com/the9kim/push-test/blob/Roy/Roy.md" target="_blank">
        로이
       </a>
     </td> 
@@ -108,7 +108,7 @@
   </tr>
 <tr>
     <td align="center">
-      <a href="https://docs.google.com/presentation/d/1ocQO1UbCpaGBslRh494F6moUNWV3QxrPtbKaJY9184Y/edit?usp=sharing" target="_blank">
+      <a href="./philip.md" target="_blank">
         필립 사용설명서
       </a>
     </td>
