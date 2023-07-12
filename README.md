@@ -118,7 +118,7 @@
       </a>
     </td> 
      <td align="center">
-      <a href="https://docs.google.com/presentation/d/1dp9jDEbdD3JN2SlkownT8PNhsq-6IOlTA7-5F00nY1A/edit?usp=sharing" target="_blank">
+      <a href="https://github.com/sh111-coder/push-test/blob/feat/be/%EC%84%B1%ED%95%98-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%EC%9E%91%EC%84%B1/seongha.md" target="_blank">
        성하 사용설명서
       </a>
      <td align="center">
