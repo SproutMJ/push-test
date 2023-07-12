@@ -103,7 +103,7 @@
       </a>
      <td align="center">
       <a href="https://github.com/suyoungj" target="_blank">
-       엔델
+       엔델 역할: 백엔드
       </a>
   </tr>
 <tr>
