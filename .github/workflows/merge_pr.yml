@@ -1,0 +1,36 @@
+name: Merge PR on Approvals
+on:
+  pull_request_review:
+    types:
+      - submitted
+
+jobs:
+  merge_pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check approvals and changes requested
+        id: check_approvals_changes
+        uses: actions/github-script@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { data: reviews } = await github.pulls.listReviews({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.payload.pull_request.number
+            });
+            const approved = reviews.every(review => review.state === 'APPROVED');
+            const changesRequested = reviews.some(review => review.state === 'CHANGES_REQUESTED');
+            return { approved, changesRequested };
+
+      - name: Merge PR
+        if: steps.check_approvals_changes.outputs.approved && !steps.check_approvals_changes.outputs.changesRequested
+        uses: actions/github-script@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.pulls.merge({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.payload.pull_request.number
+            });
