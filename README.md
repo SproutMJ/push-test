@@ -5,6 +5,7 @@
 
 
 ## 팀소개
+
 <img src="https://github.com/woowacourse-teams/2023-team-by-team/assets/79538610/86692466-b065-45b7-84d8-f6c679acc4fe" alt="팀바팀 로고" width="100" height="130"/>
 <br/>
 유스(@suyoungj), 루루(@hafnium1923), 요술토끼(@wzrabbit), 필립(@pilyang), 성하(@sh111-coder), 엔델(@SproutMJ), 로이(@the9kim)
@@ -12,8 +13,8 @@
 
 ### 우리는 대학생들을 위한 팀플 플랫폼을 제공하는 팀입니다.
 
-
 #### 프론트
+
 <table>
   <tr>
     <td align="center" width="180px">
@@ -61,13 +62,14 @@
       </a>
     </td> 
      <td align="center">
-      <a href="https://docs.google.com/presentation/d/1kq297vpcasO_6Ky_QbYhvHhLmB1WGjFscIMH0_L_23A/edit?usp=sharing" target="_blank">
+      <a href="./youth.md" target="_blank">
        유스 사용설명서
       </a>
   </tr>
 </table>
 
 #### 백엔드
+
 <table>
   <tr>
     <td align="center" width="180px">
@@ -108,7 +110,7 @@
       </a>
      <td align="center">
       <a href="https://github.com/suyoungj" target="_blank">
-       엔델
+       엔델 역할: 백엔드
       </a>
   </tr>
 <tr>
@@ -135,6 +137,7 @@
 <br />
 
 ---
+
 # 팀 그라운드 룰
 
 ### 수평적인 관계, 허물없는 대화 💬
