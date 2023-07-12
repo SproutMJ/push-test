@@ -45,7 +45,7 @@
   </tr>
 <tr>
     <td align="center">
-      <a href="/workspaces/push-test/루루.md" target="_blank">
+      <a href="./루루.md" target="_blank">
         자기소개서
       </a>
     </td>
