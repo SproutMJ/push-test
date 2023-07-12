@@ -45,8 +45,8 @@
   </tr>
 <tr>
     <td align="center">
-      <a href="https://docs.google.com/presentation/d/1dsGhcut3RqHDbpD-c1rZqUhNQuFd6a7RZrJ0IywOfeE/edit?usp=sharing" target="_blank">
-        루루 사용설명서
+      <a href="/workspaces/push-test/루루.md" target="_blank">
+        자기소개서
       </a>
     </td>
      <td align="center">
