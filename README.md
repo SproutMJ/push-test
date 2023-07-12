@@ -6,6 +6,7 @@
 유스(@suyoungj), 루루(@hafnium1923), 요술토끼(@wzrabbit), 필립(@pilyang), 성하(@sh111-coder), 엔델(@SproutMJ), 로이(@the9kim)
 
 
+### 우리는 대학생들을 위한 팀플 플랫폼을 제공하는 팀입니다.
 
 
 #### 프론트
