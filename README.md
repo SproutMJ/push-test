@@ -108,7 +108,7 @@
   </tr>
 <tr>
     <td align="center">
-      <a href="https://docs.google.com/presentation/d/1ocQO1UbCpaGBslRh494F6moUNWV3QxrPtbKaJY9184Y/edit?usp=sharing" target="_blank">
+      <a href="./philip.md" target="_blank">
         필립 사용설명서
       </a>
     </td>
